@@ -1,0 +1,1 @@
+Desa aquí el teu HTML com a index.html perquè Express el serveixi a http://localhost:3000
